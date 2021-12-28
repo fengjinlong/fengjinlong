@@ -4,3 +4,5 @@
 
 
 ![慎](https://img.wanyx.com/upload/hero/big98002.jpg)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fengjinlong&layout=compact" alt="wakatime">
