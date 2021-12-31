@@ -6,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengjinlong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/763fee12-1c68-4ac4-b1e1-ac2366e732c4/project/d5d849f9-5500-4ba3-a88c-3f98daba6b77.svg)](https://wakatime.com/badge/user/763fee12-1c68-4ac4-b1e1-ac2366e732c4/project/d5d849f9-5500-4ba3-a88c-3f98daba6b77)
+<figure><embed src="https://wakatime.com/share/@763fee12-1c68-4ac4-b1e1-ac2366e732c4/21abdd06-0f42-4028-b7ed-c4a6a73250da.svg"></embed></figure>
 
